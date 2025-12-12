@@ -1,1 +1,1 @@
-# CNN_FBSCvsCarbon
+# CNN model to predict the community growth
